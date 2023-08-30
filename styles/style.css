@@ -42,3 +42,67 @@
     border: none;
     margin-bottom: 30px;
 }
+
+/* main styles star  */
+
+/* featured style start  */
+
+
+.featured {
+    margin: 100px 300px;
+
+
+
+}
+
+
+.featured-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.featured-des {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+.featured-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+
+.featured-img1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 90px 70px 0px 70px;
+
+}
+
+.featured-img2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 50px 30px 0px 30px;
+
+}
+
+.featured-img3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 90px 30px 0px 30px;
+
+}
+.flower-title {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+
+    text-decoration-line: underline;
+}
