@@ -227,3 +227,104 @@
     font-weight: bold;
     color: rgb(85, 81, 81);
 }
+
+
+.form-container {
+    margin: 100px 350px;
+    position: relative;
+    align-items: center;
+
+}
+
+.form-container img {
+    vertical-align: middle;
+   
+}
+
+.form-container .form-info {
+    position: absolute;
+    bottom: 0;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
+
+
+.form-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.form-des {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.form {
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+    margin-top: 20px;
+    margin-left: 370px;
+    text-align: center;
+    font-size: 20px;
+    border: 0;
+}
+
+.form-btn {
+    background: #E55473;
+    border-radius: 8px;
+    padding: 20px 43px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    margin-bottom: 30px;
+    margin-left: 620px;
+    margin-top: 20px;
+}
+
+
+
+footer {
+    background: #111010;
+    height: 450px;
+}
+
+
+.footer-title {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+    padding: 50px;
+
+
+}
+
+.title-shop {
+    color: #FFF;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.footer-des {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.copy-right {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
